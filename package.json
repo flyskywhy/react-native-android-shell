@@ -1,7 +1,7 @@
 {
   "name": "@flyskywhy/react-native-android-shell",
   "title": "React Native Android Shell",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "This module for execute shell android, use command and execute shell",
   "main": "index.js",
   "private": false,
